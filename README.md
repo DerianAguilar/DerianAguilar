@@ -124,9 +124,9 @@
   
 ### My stats
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=DerianAguilar&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-  
-  ![ChilyGarcia GitHub stats](https://github-readme-stats.vercel.app/api?username=DerianAguilar&show_icons=true&theme=neon)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DerianAguilar&theme=highcontrast)](https://git.io/streak-stats)
+
+  ![ChilyGarcia GitHub stats](https://github-readme-stats.vercel.app/api?username=DerianAguilar&show_icons=true&theme=highcontrast)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerianAguilar&langs_count=8)
 
