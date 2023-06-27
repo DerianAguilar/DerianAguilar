@@ -1,5 +1,7 @@
   <div align="center">
-    <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=">
+    <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0="
+      width="400px"
+      />
   </div>
   <h1 align="center">Hi 👋, I'm Derian Aguilar</h1>
   <h3 align="center">A passionate fullstack developer from Colombia, delighted to continue learning and acquiring new skills and strengths, to solve problems creatively and efficiently with technology.</h3>
