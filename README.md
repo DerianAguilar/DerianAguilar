@@ -4,7 +4,7 @@
       />
   </div>
   <h1 align="center">Hi 👋, I'm Derian Aguilar</h1>
-  <h3 align="center">A passionate fullstack developer from Colombia, delighted to continue learning and acquiring new skills and strengths, to solve problems creatively and efficiently with technology.</h3>
+  <h3 align="center">A passionate junior fullstack developer from Colombia, delighted to continue learning and acquiring new skills and strengths, to solve problems creatively and efficiently with technology.</h3>
   
   ---
   
